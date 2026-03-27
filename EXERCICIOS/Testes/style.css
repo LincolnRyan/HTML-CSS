@@ -1,0 +1,16 @@
+h1 {
+    color: #3d0ac0;
+    background-color: aqua;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: auto;
+    border:  5px solid black;
+    border-radius: 15px;
+    text-shadow:3px 3px 5px #14053c;
+}
+
+body {
+    background-color: rgb(127, 208, 255);
+    max-width: 100%;
+}
